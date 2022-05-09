@@ -1,0 +1,28 @@
+_repo: Little-Guzzy-and-Other-Stories_67985
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Habberton, John
+    birthdate: 1842
+    deathdate: 1921
+    gutenberg_agent_id: '1427'
+    url: http://www.gutenberg.org/2009/agents/1427
+    wikipedia: https://en.wikipedia.org/wiki/John_Habberton
+description: ''
+gutenberg_issued: '2022-05-03'
+identifiers:
+  gutenberg: '67985'
+language: en
+pgterms:marc905: 20150905221627habberton
+pgterms:marc906: '1877'
+pgterms:marc907: us
+production_note: David Edwards and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by Google Books.
+publication_note: United States :G. W. Carleton & Co.,1877.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Little Guzzy and Other Stories
+url: http://www.gutenberg.org/ebooks/67985
